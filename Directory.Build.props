@@ -20,7 +20,7 @@
 	</ItemGroup>
 
 	<PropertyGroup>
-		<NoWarn>CS1591; SYSLIB0011</NoWarn>
+		<NoWarn>CS1591</NoWarn>
 	</PropertyGroup>
 
 </Project>
