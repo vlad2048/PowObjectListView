@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace ObjectListView;
+namespace BrightIdeasSoftware;
 
 public static class TypeExts
 {
