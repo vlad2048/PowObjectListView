@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{38CE0CEC-C8A2-49F7-84CB-5FF1D179ACBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowObjectListView", "Libs\PowObjectListView\PowObjectListView.csproj", "{E06C377B-8974-45AC-BFF8-2397E9AAA7C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7BC009B-977E-468B-8313-DE95F8C10B37}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		License.txt = License.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06C377B-8974-45AC-BFF8-2397E9AAA7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06C377B-8974-45AC-BFF8-2397E9AAA7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06C377B-8974-45AC-BFF8-2397E9AAA7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06C377B-8974-45AC-BFF8-2397E9AAA7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E06C377B-8974-45AC-BFF8-2397E9AAA7C1} = {38CE0CEC-C8A2-49F7-84CB-5FF1D179ACBB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBD533B-F418-4A36-AE19-0AE3FCE80D0D}
+	EndGlobalSection
+EndGlobal
